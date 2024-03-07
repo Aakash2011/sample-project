@@ -1,4 +1,4 @@
 if 1 == 1:
     print("Hello")
 else:
-    print("Say no to Hello!")
+    print("Say no only to Hello!")
